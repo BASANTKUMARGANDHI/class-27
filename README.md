@@ -1,1 +1,3 @@
-# class-27
+# Oscillating Pendulum Project
+
+https://setucoder.github.io/C27-project/
